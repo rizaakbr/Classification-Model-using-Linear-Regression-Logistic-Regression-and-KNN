@@ -1,0 +1,1 @@
+In this project, I will construct a classification model using machine learning techniques. The objective is to compare the accuracy levels of linear regression, logistic regression, and KNN models using a given dataset.
